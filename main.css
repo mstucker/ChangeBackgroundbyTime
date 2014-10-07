@@ -1,0 +1,14 @@
+p {
+	font-size: 3.000em;
+
+}
+
+.day {
+	background-color: #aaa;
+	color: #E82A2A;
+}
+
+.night {
+	background-color: #262223;
+	color: #4BD8EB;
+}
